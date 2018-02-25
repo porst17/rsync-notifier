@@ -1,0 +1,18 @@
+.gvfs
+.cache*
+cache*
+Cache*
+trash*
+Trash*
+*~
+Ubuntu One
+.drobbox*
+.dbus
+.dbus.bak
+.gnome2.bak
+.gnome2_private.bak
+.adobe/Flash_Player/*Cache
+/proc/*
+/sys/*
+/dev/*
+/run/*
